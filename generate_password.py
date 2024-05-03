@@ -2,15 +2,15 @@ import random
 import string
 
 
-def generate_password():
+def generate_password(length):
     """
     Generate a random passwords
 
     :return: dataframe
     """
 
-    min_length = 6
-    max_length = 6
+    min_length = length
+    max_length = length
     length = random.randint(min_length, max_length)
 
     str_characters = string.ascii_letters + string.digits + "!@#$%^&*"
