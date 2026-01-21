@@ -10,7 +10,7 @@ Foi utilizado as seguintes linguagens/bibliotecas:
 É necessário instalar as seguintes ferramentas:<br />
 - [x] [Git](https://git-scm.com/) <br />
 - [x] [Python](https://www.python.org/downloads/) <br />
-- [x] [PyCharm](https://www.jetbrains.com/pt-br/pycharm/) <br />
+- [x] [PyCharm](https://www.jetbrains.com/pt-br/pycharm/) or [VS Code](https://code.visualstudio.com/download)<br />
 
 ### GET STARTED
 ``python -m venv .venv``
